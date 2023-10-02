@@ -1,22 +1,11 @@
-# HelpMeOut
+# Some Links on the client side
+view all uploaded videos:
 
-### [API URL](https://seashell-app-4jicj.ondigitalocean.app/)
-
-### [Documentation URL](https://seashell-app-4jicj.ondigitalocean.app/api/doc)
-
-### [Client URL](https://helpmeoutapp.vercel.app/)
-
-### Some Links on client side
+client URL: https://hngx-stage-5.vercel.app/
 
 - View all uploaded videos
 
   - [https://helpmeoutapp.vercel.app/home](https://helpmeoutapp.vercel.app/home)
-
-- View a specific video
-  - [https://helpmeoutapp.vercel.app/file/videoId](https://helpmeoutapp.vercel.app/video/videoId)
-    > If the video dont exists, a 404 video animation would be played.
-
-## Extension
-
-To use the extension, download it from the link below:
-[Extension release link](https://github.com/Benrobo/HelpMeOut/releases/tag/Latest)
+    
+# Extension
+To use the extension link, download from the link below:  [extension.zip](https://github.com/jesse-maurice/HNGX-stage-5/files/12781417/extension.zip)
